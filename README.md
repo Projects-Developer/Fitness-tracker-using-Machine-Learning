@@ -5,7 +5,8 @@ Fitness tracker using Machine Learning with code, Documents and Video Tutorial
 
 # Youtube link: https://youtu.be/LbjWU1gbjCU?si=JgyQmeMVG47xvq3h
 
- Abstract: This paper presents a novel fitness tracker that leverages machine learning algorithms to provide personalized fitness and health insights. The wearable device tracks various physiological and physical parameters, including heart rate, sleep patterns, and activity levels. Machine learning algorithms analyze these data to identify patterns, detect anomalies, and offer tailored recommendations for improvement. The system aims to enhance user engagement, motivation, and overall well-being, while providing a more accurate and effective approach to fitness tracking
+ ## Abstract:
+This paper presents a novel fitness tracker that leverages machine learning algorithms to provide personalized fitness and health insights. The wearable device tracks various physiological and physical parameters, including heart rate, sleep patterns, and activity levels. Machine learning algorithms analyze these data to identify patterns, detect anomalies, and offer tailored recommendations for improvement. The system aims to enhance user engagement, motivation, and overall well-being, while providing a more accurate and effective approach to fitness tracking
 
 Keywords: Machine Learning, Fitness Tracker, Wearable Technology, Personalized Medicine, Health Monitoring.
 
