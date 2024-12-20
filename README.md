@@ -1,7 +1,7 @@
 # Fitness-tracker-using-Machine-Learning
 Fitness tracker using Machine Learning with code, Documents and Video Tutorial
 
-![image](https://github.com/user-attachments/assets/5461cb62-e172-4f4b-a175-0c915db0e001)
+![fitness](https://github.com/user-attachments/assets/7cbb6148-87ca-4612-98a4-26c969325206)
 
 # Youtube link: https://youtu.be/LbjWU1gbjCU?si=JgyQmeMVG47xvq3h
 
